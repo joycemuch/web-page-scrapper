@@ -1,0 +1,8 @@
+// Python web scrapper
+
+pip install requests
+pip install tkinter
+
+
+
+
